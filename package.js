@@ -1,6 +1,6 @@
 Package.describe({
   name: 'dinf:errors',
-  version: '1.0.0',
+  version: '1.1.0',
   // Brief, one-line summary of the package.
   summary: 'componente para gerenciamento e apresentação de erros no front-end',
   // URL to the Git repository containing the source code for this package.
